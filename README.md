@@ -1,5 +1,5 @@
 # calculators
 calculator project
 # downloads
-https://raw.githubusercontent.com/ajatan/calculators/master/downloads/calculator%20installer.zip
-https://raw.githubusercontent.com/ajatan/calculators/master/downloads/calculator.exe
+[insatller](https://raw.githubusercontent.com/ajatan/calculators/master/downloads/calculator%20installer.zip)
+[exe](https://raw.githubusercontent.com/ajatan/calculators/master/downloads/calculator.exe)
